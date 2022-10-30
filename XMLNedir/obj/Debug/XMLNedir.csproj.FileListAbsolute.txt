@@ -1,0 +1,8 @@
+C:\Users\303\source\repos\XMLNedir\XMLNedir\bin\Debug\XMLNedir.exe.config
+C:\Users\303\source\repos\XMLNedir\XMLNedir\bin\Debug\XMLNedir.exe
+C:\Users\303\source\repos\XMLNedir\XMLNedir\bin\Debug\XMLNedir.pdb
+C:\Users\303\source\repos\XMLNedir\XMLNedir\obj\Debug\XMLNedir.csproj.AssemblyReference.cache
+C:\Users\303\source\repos\XMLNedir\XMLNedir\obj\Debug\XMLNedir.csproj.SuggestedBindingRedirects.cache
+C:\Users\303\source\repos\XMLNedir\XMLNedir\obj\Debug\XMLNedir.csproj.CoreCompileInputs.cache
+C:\Users\303\source\repos\XMLNedir\XMLNedir\obj\Debug\XMLNedir.exe
+C:\Users\303\source\repos\XMLNedir\XMLNedir\obj\Debug\XMLNedir.pdb

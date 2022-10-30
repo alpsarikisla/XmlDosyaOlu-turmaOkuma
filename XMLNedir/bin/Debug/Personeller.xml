@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Personeller>
+  <personel id="0">
+    <isim>Alp</isim>
+    <soyisim>Sarıkışla</soyisim>
+    <telefon>05301234567</telefon>
+  </personel>
+  <Personel id="1">
+    <isim>Ufuk</isim>
+    <soyisim>Gömeçoğlu</soyisim>
+    <telefon>05396923901</telefon>
+  </Personel>
+</Personeller>
